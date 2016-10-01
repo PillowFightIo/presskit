@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Rose of Winter</title>
+	<release-date>October 5, 2016</release-date>
+	<website>http://roseofwinter.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Itch.io</name>
+			<link>https://pillowfight.itch.io/rose-of-winter</link>
+		</platform>
+<!-- 		<platform>
+			<name>Steam</name>
+			<link>http://www.steampowered.com/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://www.itunes.com/</link>
+		</platform> -->
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$9.99</value>
+		</price>
+<!-- 		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price> -->
+	</prices>
+
+	<description>
+	Rose of Winter is a romantic visual novel set in a fantasy world of dragons, knights, and monsters. Rosemary is an aspiring knight with big dreams, but for now, she’s doing odd jobs where she can find them. This adventure finds her at the foot of Mount Needle, and with four hot princes to escort through the dangerous mountain pass. Players will navigate dangerous weather, fight off wildlife, and definitely there is smooching. 
+	</description>
+	
+	<history>
+Pillow Fight Games was founded after two devs had too much fun developing We Know the Devil. We think diversity means inclusive teams and original stories that reach a diverse audience. That’s why our games are developed with fair pay and accessibility as top priorities.
+	</history>
+
+	<features>
+		<feature>A romantic, original story with eight separate endings.</feature>
+		<feature>Adorable art by three queens of indie comics.</feature>
+		<feature>Dynamic visual novel style, presented on multiple platforms.</feature>
+		<feature>Music by Toby Fox.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Rose of Winter Steam Greenlight Trailer</name>
+			<youtube>WnIaxegi1UY</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+<!-- 		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award> -->
+	</awards>
+	
+	<quotes>
+<!-- 		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote> -->
+	</quotes>
+	
+	<additionals>
+<!-- 		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional> -->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Magnolia Porter</person>
+			<website>http://www.monster-pulse.com</website>
+			<role>Creator/Writer</role>
+		</credit>
+		<credit>
+			<person>Aatmaja Pandya</person>
+			<website>http://traveloguecomic.com/</website>
+			<role>Character Designer/Sprite Artist</role>
+		</credit>
+		<credit>
+			<person>Victoria Grace Elliot</person>
+			<website>http://www.balderdashcomic.com/</website>
+			<role>Environment Artist/UI Designer</role>
+		</credit>
+		<credit>
+			<person>Toby Fox</person>
+			<website>https://tobyfox.bandcamp.com/</website>
+			<role>Music</role>
+		</credit>
+		<credit>
+			<person>Conrad Kreyling</person>
+			<website>http://pillowfight.io/</website>
+			<role>Developer</role>
+		</credit>
+		<credit>
+			<person>Jo Fu</person>
+			<website>http://pillowfight.io/</website>
+			<role>Producer</role>
+		</credit>
+	</credits>
+</game>
