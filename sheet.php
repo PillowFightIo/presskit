@@ -556,10 +556,10 @@ else
 			$result = "";
 
 			if( strlen( $youtube ) > 0 ) {
-				$result .= '<a href="http://www.youtube.com/watch?v='.$youtube.'">YouTube</a>, ';
+				$result .= '<a href="https://www.youtube.com/watch?v='.$youtube.'">YouTube</a>, ';
 			}
 			if( strlen( $vimeo ) > 0 ) {
-				$result .= '<a href="http://www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
+				$result .= '<a href="https://www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
 			}
 			if( strlen( $mov ) > 0 ) {
 				$result .= '<a href="'.$game.'/trailers/'.$mov.'">.mov</a>, ';
@@ -573,11 +573,11 @@ else
 			if( $ytfirst == 1 ) 
 			{
 				echo '<div class="uk-responsive-width iframe-container">
-		<iframe src="http://www.youtube.com/embed/'. $youtube .'" frameborder="0" allowfullscreen></iframe>
+		<iframe src="https://www.youtube.com/embed/'. $youtube .'" frameborder="0" allowfullscreen></iframe>
 </div>';
 			} elseif ( $ytfirst == 0 ) {
 				echo '<div class="uk-responsive-width iframe-container">
-		<iframe src="http://player.vimeo.com/video/'.$vimeo.'" frameborder="0" allowfullscreen></iframe>
+		<iframe src="https://player.vimeo.com/video/'.$vimeo.'" frameborder="0" allowfullscreen></iframe>
 </div>';
 			}
 			echo '</p>';

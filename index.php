@@ -399,10 +399,10 @@ else
 			$result = "";
 
 			if( strlen( $youtube ) > 0 ) {
-				$result .= '<a href="http://www.youtube.com/watch?v='.$youtube.'">YouTube</a>, ';
+				$result .= '<a href="https://www.youtube.com/watch?v='.$youtube.'">YouTube</a>, ';
 			}
 			if( strlen( $vimeo ) > 0 ) {
-				$result .= '<a href="http://www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
+				$result .= '<a href="https://www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
 			}
 			if( strlen( $mov ) > 0 ) {
 				$result .= '<a href="trailers/'.$mov.'">.mov</a>, ';
