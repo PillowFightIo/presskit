@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Two Scoops</title>
+	<release-date>Q4 2017</release-date>
+	<website>http://twoscoopsgame.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Itch.io (PC/Mac/Linux)</name>
+			<link>https://pillowfight.itch.io/two-scoops</link>
+		</platform>
+<!-- 		<platform>
+			<name>Steam</name>
+			<link>http://www.steampowered.com/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://www.itunes.com/</link>
+		</platform> -->
+	</platforms>
+	
+	<prices>
+<!-- 		<price>
+			<currency>USD</currency>
+			<value>$19.99</value>
+		</price> -->
+<!-- 		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price> -->
+	</prices>
+
+	<description>
+Two Scoops is a fresh, new visual novel + dating sim about love and ice cream! It's the story of a big girl in a small town who finds romance at her local ice cream shop. 
+
+In this game, you take on the role of a young woman who has just started a new job at a local, family-owned ice cream shop. She's taken on a big responsibility, too: two of the employees are going away soon, leaving her to fill their shoes! With only a week remaining before their departure, the situation seems tricky for our protagonist, but she is determined to show that she's the right one for the job, all while growing closer to her co-workers along the way.
+	</description>
+	
+	<history>
+Pillow Fight Games was founded after two devs had too much fun developing We Know the Devil. We think diversity means inclusive teams and original stories that reach a diverse audience. That’s why our games are developed with fair pay and accessibility as top priorities.
+	</history>
+
+	<features>
+		<feature>A diverse and body-positive set of romance options</feature>
+		<feature>Adorable, original artwork and music</feature>
+		<feature>An original story by a supergroup of VN creators</feature>
+		<feature>An in-game cell phone with fun social media features</feature>
+		<feature>Choose the look and name of the cute MC</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Kickstarter Intro Video</name>
+			<mp4>https://ksr-video.imgix.net/projects/2931518/video-782832-h264_high.mp4</mp4>
+		</trailer>
+	</trailers>
+	
+	<awards>
+<!-- 		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award> -->
+	</awards>
+	
+	<quotes>
+<!-- 		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote> -->
+	</quotes>
+	
+	<additionals>
+<!-- 		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional> -->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Paige Hall</person>
+			<website>http://thumbcramps.net</website>
+			<role>Creator/Character Artist</role>
+		</credit>
+		<credit>
+			<person>Stennis Tharp</person>
+			<role>Line art/Designs</role>
+		</credit>
+		<credit>
+			<person>Vivian Ng</person>
+			<role>Environment Artist</role>
+		</credit>
+		<credit>
+			<person>Diana Taylor</person>
+			<role>Writer</role>
+		</credit>
+		<credit>
+			<person>Katy Forsythe</person>
+			<role>Writer</role>
+		</credit>
+		<credit>
+			<person>Lain Farlight</person>
+			<website>http://lainfarlight.com</website>
+			<role>UI Designer</role>
+		</credit>
+		<credit>
+			<person>Emily Fitch</person>
+			<website>https://www.patreon.com/EmilyFitch</website>
+			<role>Music/SFX</role>
+		</credit>
+		<credit>
+			<person>Jo Fu</person>
+			<website>http://pillowfight.io</website>
+			<role>Producer/Tech Artist</role>
+		</credit>
+		<credit>
+			<person>Conrad Kreyling</person>
+			<website>http://pillowfight.io/</website>
+			<role>Developer</role>
+		</credit>
+	</credits>
+</game>
