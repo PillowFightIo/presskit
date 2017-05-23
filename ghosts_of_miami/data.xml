@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Ghosts of Miami</title>
+	<release-date>Q3 2017</release-date>
+	<website>http://ghostsofmiami.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Itch.io (PC/Mac/Linux)</name>
+			<link>https://pillowfight.itch.io/ghosts-of-miami</link>
+		</platform>
+<!-- 		<platform>
+			<name>Steam</name>
+			<link>http://www.steampowered.com/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://www.itunes.com/</link>
+		</platform> -->
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$19.99</value>
+		</price>
+<!-- 		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price> -->
+	</prices>
+
+	<description>
+	Ghosts of Miami is a mystery visual novel where you control the investigations. It’s 1986, and Chelo Martínez has just started her career as private eye, determined to find the missing people that the cops are too busy for. Guide Chelo around Dade County, ask questions, and find your target, or fall victim to red herrings and distractions, like five romantic options who can help or hurt your case.
+	</description>
+	
+	<history>
+Pillow Fight Games was founded after two devs had too much fun developing We Know the Devil. We think diversity means inclusive teams and original stories that reach a diverse audience. That’s why our games are developed with fair pay and accessibility as top priorities.
+	</history>
+
+	<features>
+		<feature>A Phoenix Wright-like, time-limited investigation system</feature>
+		<feature>Artwork inspired by the neons and pastels of art deco Miami</feature>
+		<feature>An original, 80s-themed album composed by Casey Yates</feature>
+		<feature>5 full-length cases and 5 romantic routes, with seven total endings</feature>
+		<feature>A racially diverse, LGBTQ+ friendly, and female-forward development team</feature>
+		<feature>English, Spanish, and Traditional Chinese text options</feature>
+		<feature>Hi-contrast viewing, Text-to-Speech reading option, and controller and button remapping support</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Ghosts of Miami Steam Greenlight Trailer</name>
+			<youtube>Kpp135MCUlM</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+<!-- 		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award> -->
+	</awards>
+	
+	<quotes>
+<!-- 		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote> -->
+	</quotes>
+	
+	<additionals>
+<!-- 		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional> -->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Jo Fu</person>
+			<website>http://pillowfight.io/</website>
+			<role>Creator/Writer</role>
+		</credit>
+		<credit>
+			<person>Cassandra Freire</person>
+			<website>http://www.cassiefreire.com</website>
+			<role>Character Designer/Sprite Artist</role>
+		</credit>
+		<credit>
+			<person>Iasmin Omar Ata</person>
+			<website>http://iasminomarata.com</website>
+			<role>Environment Artist</role>
+		</credit>
+		<credit>
+			<person>Kimberly Nguyen</person>
+			<website>http://www.kimisgold.com</website>
+			<role>UI Designer</role>
+		</credit>
+		<credit>
+			<person>Casey Yates</person>
+			<role>Music</role>
+		</credit>
+		<credit>
+			<person>Lindsay and Alex Small-Butera of SmallBü Animation</person>
+			<website>https://www.youtube.com/user/SmallButera</website>
+			<role>Intro Animation</role>
+		</credit>
+		<credit>
+			<person>Ian Schlaepfer</person>
+			<website>http://herculeanpixel.com</website>
+			<role>Pixel Animation</role>
+		</credit>
+		<credit>
+			<person>Conrad Kreyling</person>
+			<website>http://pillowfight.io/</website>
+			<role>Developer</role>
+		</credit>
+	</credits>
+</game>

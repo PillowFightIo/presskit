@@ -11,14 +11,14 @@
 			<name>Itch.io</name>
 			<link>https://pillowfight.itch.io/rose-of-winter</link>
 		</platform>
-<!-- 		<platform>
+		<platform>
 			<name>Steam</name>
-			<link>http://www.steampowered.com/</link>
+			<link>http://store.steampowered.com/app/540880/Rose_of_Winter/</link>
 		</platform>
 		<platform>
-			<name>Apple App Store</name>
-			<link>http://www.itunes.com/</link>
-		</platform> -->
+			<name>iOS</name>
+			<link>https://itunes.apple.com/us/app/rose-of-winter/id1167250238?mt=8</link>
+		</platform>
 	</platforms>
 	
 	<prices>
@@ -26,18 +26,6 @@
 			<currency>USD</currency>
 			<value>$9.99</value>
 		</price>
-<!-- 		<price>
-			<currency>EUR</currency>
-			<value>€1.59</value>
-		</price>
-		<price>
-			<currency>CAD</currency>
-			<value>$1.99</value>
-		</price>				
-		<price>
-			<currency>GBP</currency>
-			<value>£1.29</value>
-		</price> -->
 	</prices>
 
 	<description>

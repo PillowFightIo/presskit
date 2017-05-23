@@ -41,6 +41,10 @@
 			<name>Rose of Winter Steam Greenlight Trailer</name>
 			<youtube>WnIaxegi1UY</youtube>
 		</trailer>
+		<trailer>
+			<name>Ghosts of Miami Steam Greenlight Trailer</name>
+			<youtube>Kpp135MCUlM</youtube>
+		</trailer>
 <!-- 		<trailer>
 			<name>This one too</name>
 			<youtube>0CevOaYrYDA</youtube>
@@ -109,14 +113,14 @@
 	
 	<credits>
 		<credit>
-			<person>Conrad Kreyling</person>
-			<website>http://pillowfight.io/</website>
-			<role>Developer</role>
-		</credit>
-		<credit>
 			<person>Jo Fu</person>
 			<website>http://pillowfight.io/</website>
-			<role>Producer</role>
+			<role>Boss</role>
+		</credit>
+		<credit>
+			<person>Conrad Kreyling</person>
+			<website>http://pillowfight.io/</website>
+			<role>Tech</role>
 		</credit>
 	</credits>
 	
