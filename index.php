@@ -318,10 +318,6 @@ if( count($address) > 0 )
 }
 
 echo'							</p> 
-							<p>
-								<strong>'. tl('Phone:') .'</strong><br/>
-								'. COMPANY_PHONE .'
-							</p>
 						</div>
 						<div class="uk-width-medium-4-6">
 							<h2 id="description">'. tl('Description') .'</h2>
