@@ -2,7 +2,7 @@
 
 <game>
 	<title>Ghosts of Miami</title>
-	<release-date>Q3 2017</release-date>
+	<release-date>August 22, 2017</release-date>
 	<website>http://ghostsofmiami.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
@@ -11,11 +11,15 @@
 			<name>Itch.io (PC/Mac/Linux)</name>
 			<link>https://pillowfight.itch.io/ghosts-of-miami</link>
 		</platform>
-<!-- 		<platform>
+		<platform>
 			<name>Steam</name>
-			<link>http://www.steampowered.com/</link>
+			<link>http://store.steampowered.com/app/677300/Ghosts_of_Miami/</link>
 		</platform>
 		<platform>
+			<name>Humble Store</name>
+			<link>https://www.humblebundle.com/store/ghosts-of-miami</link>
+		</platform>
+<!--		<platform>
 			<name>Apple App Store</name>
 			<link>http://www.itunes.com/</link>
 		</platform> -->
@@ -24,7 +28,7 @@
 	<prices>
 		<price>
 			<currency>USD</currency>
-			<value>$19.99</value>
+			<value>$14.99</value>
 		</price>
 <!-- 		<price>
 			<currency>EUR</currency>
@@ -147,6 +151,11 @@ Pillow Fight Games was founded after two devs had too much fun developing We Kno
 		</credit>
 		<credit>
 			<person>Casey Yates</person>
+			<role>Music</role>
+		</credit>
+		<credit>
+			<person>Matt “2 Mello” Hopkins</person>
+			<website>https://2mellomakes.bandcamp.com/</website>
 			<role>Music</role>
 		</credit>
 		<credit>
