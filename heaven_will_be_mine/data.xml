@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Heaven Will Be Mine</title>
+	<release-date>May 1, 2018</release-date>
+	<website>http://www.heavenwillbemine.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac / Linux</name>
+			<link>http://www.heavenwillbemine.com/</link>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/836450/Heaven_Will_Be_Mine/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$14.99</value>
+		</price>
+	</prices>
+
+	<description>
+	HEAVEN WILL BE MINE is a visual novel about making terrible life decisions in the midst of a hot-blooded battle between giant robots. Select one of three terribly behaved girls to fight and/or make out with each other in their struggle for the fate of space.
+	</description>
+	
+	<history>
+	Heaven Will Be Mine is a queer science fiction mecha visual novel from the creators of queer cult horror visual novel We Know The Devil, about joyriding mecha, kissing your enemies, and fighting gravity’s pull. Follow three women piloting giant robots in the last days of an alternate 1980s space program fighting for humanity’s future—or ditching their jobs to make out with each other instead.
+
+	Experience the story from the perspective of three pilots bound by fate and gravity: veteran ace Luna-Terra, overwhelming super psychic Pluto, and hacker-hijacker Saturn as they fight across three different factions in an eight day war. Your choices decide if they become clandestine lovers or passionate rivals, and which faction’s ultimate plan for humanity’s fate in space and beyond will be realized. Win for your ideals or lose for love, and grasp heaven in your hands.
+	</history>
+
+	<features>
+		<feature>Multiple Playable Protagonists: Watch the narrative unfold from the perspective of one of the three main characters.</feature>
+		<feature>A Battle For The Fate Of Space: Your choices determine which of three factions will emerge victorious and determine the fate of space—but if you just pick based on who you wanna kiss, we won’t get mad.</feature>
+		<feature>A Rich World To Explore: Look through chat logs and emails to understand the rise and fall of the space program, and the end of their many dreams.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Launch Trailer</name>
+			<youtube>9EGxmmzXYtc</youtube>
+		</trailer>
+	</trailers>
+	
+	<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards> 
+-->
+	
+
+	<!--
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>
+	</quotes>
+-->
+	
+	<!--
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	</additionals>
+-->
+	
+	<credits>
+		<credit>
+			<person>Aevee Bee</person>
+			<website>http://www.mammonmachine.com</website>
+			<role>Writer / Director / Co-Creator</role>
+		</credit>
+		<credit>
+			<person>Mia Schwartz</person>
+			<website>http://miaschwartz.tumblr.com</website>
+			<role>Artist / Creative Director / Co-Creator</role>
+		</credit>
+		<credit>
+			<person>Alec Lambert</person>
+			<website>http://www.aleclambert.com</website>
+			<role>Music + Sound Design</role>
+		</credit>
+		<credit>
+			<person>Chris Simon</person>
+			<role>Interface Design</role>
+		</credit>
+		<credit>
+			<person>Jo Fu</person>
+			<website>http://pillowfight.io</website>
+			<role>Producer, Editor</role>
+		</credit>
+		<credit>
+			<person>Conrad Kreyling</person>
+			<website>http://pillowfight.io</website>
+			<role>Tech</role>
+		</credit>
+	</credits>
+</game>
