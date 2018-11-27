@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Later Alligator</title>
+	<release-date>Spring 2019</release-date>
+	<website>https://www.lateralligatorgame.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Itch.io (PC/Mac/Linux)</name>
+			<link>https://pillowfight.itch.io/later-alligator</link>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/966320/Later_Alligator/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$14.99</value>
+		</price>
+	</prices>
+
+	<description>
+Later Alligator tells the story of Pat the alligator, a (mostly) harmless and (probably) innocent reptile at the center of a conspiracy that could bring down the biggest, scariest family in Alligator New York City: his own! Explore the city, meet the Family, and try to save Pat before the clock runs out. 
+
+Alligator New York City comes to life with the classic hand drawn animation style of SmallBu Animation, featuring densely animated areas to explore, 30 goofy minigames, and over 100 alligator residents to investigate. With multiple endings and a fully-animated cartoon finale, Later Alligator is a funny urban adventure you can play again and again. 
+	</description>
+	
+	<history>
+Pillow Fight Games was founded after two devs had too much fun developing We Know the Devil. We think diversity means inclusive teams and original stories that reach a diverse audience. That’s why our games are developed with fair pay and accessibility as top priorities.
+	</history>
+
+	<features>
+		<feature>Classic 2D animation from an award winning studio</feature>
+		<feature>Over 100 alligators and at least 3 ghosts</feature>
+		<feature>Funny and family friendly, perfect for all ages</feature>
+		<feature>30 joke-filled minigames and challenges</feature>
+		<feature>Multiple endings and a secret surprise</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Later Alligator Launch Trailer</name>
+			<youtube>a9L61QWDxmk</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+<!-- 		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award> -->
+	</awards>
+	
+	<quotes>
+<!-- 		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote> -->
+	</quotes>
+	
+	<additionals>
+<!-- 		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional> -->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Jo Fu</person>
+			<website>http://pillowfight.io/</website>
+			<role>Producer &amp; Game Designer</role>
+		</credit>
+		<credit>
+			<person>Matt “2 Mello” Hopkins</person>
+			<website>https://2mellomakes.bandcamp.com/</website>
+			<role>Composer &amp; Sound Designer</role>
+		</credit>
+		<credit>
+			<person>Conrad Kreyling</person>
+			<website>http://pillowfight.io/</website>
+			<role>Developer</role>
+		</credit>
+	</credits>
+</game>
