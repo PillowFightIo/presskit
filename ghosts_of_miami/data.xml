@@ -6,6 +6,9 @@
 	<website>http://ghostsofmiami.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
+	<widgets>
+		<steam>677300</steam>
+	</widgets>
 	<platforms>
 		<platform>
 			<name>Itch.io (PC/Mac/Linux)</name>

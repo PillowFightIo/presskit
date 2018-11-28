@@ -6,6 +6,9 @@
 	<website>http://www.heavenwillbemine.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
+	<widgets>
+		<steam>836450</steam>
+	</widgets>
 	<platforms>
 		<platform>
 			<name>PC / Mac / Linux</name>
